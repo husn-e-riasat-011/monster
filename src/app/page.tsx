@@ -11,7 +11,6 @@ export default function Page() {
       lenis.raf(time);
       requestAnimationFrame(raf);
     }
-
     requestAnimationFrame(raf);
   }, []);
   return (
